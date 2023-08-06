@@ -10,7 +10,7 @@ The objective of this project is to ensure secure management, efficient organiza
 5. Cloud — We can’t process vast amounts of data on our local computer so we need to use the cloud, in this case, we will use AWS
 6. Reporting — Build a dashboard to get answers to the question we asked earlier
 
-## Services we will be using
+## Services used:
 1. Amazon S3: Amazon S3 is an object storage service that provides manufacturing scalability, data availability, security, and performance.
 2. AWS IAM: This is nothing but identity and access management which enables us to manage access to AWS services and resources securely.
 3. QuickSight: Amazon QuickSight is a scalable, serverless, embeddable, machine learning-powered business intelligence (BI) service built for the cloud.
@@ -25,8 +25,3 @@ https://www.kaggle.com/datasets/datasnaek/youtube-new
 
 ## Architecture Diagram
 <img src="architecture.jpeg">
-
-## Complete Tutorial
-I have created a detailed 3+ hour tutorial on this project, where you will execute everything from start to end
-
-https://youtu.be/yZKJFKu49Dk
